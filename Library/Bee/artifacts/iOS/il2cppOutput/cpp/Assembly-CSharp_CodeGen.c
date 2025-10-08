@@ -1,0 +1,84 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void FishingCountdown_OnEnable_m658B5BC23DC264F2A5A7050B7DE9DE2FAB4A13D7 (void);
+extern void FishingCountdown_StartCountdown_m911571D980BDDE8FD87EA7E04436AC4161C248B5 (void);
+extern void FishingCountdown_Update_mFB97934873CFB00C4DBCCB4610CC39333C45CE39 (void);
+extern void FishingCountdown_UpdateCountdownLabel_mB924CFFAE403D8F4BCEF547D9BFD72B47DA9A6F6 (void);
+extern void FishingCountdown_OnCountdownSuccess_mA3D65087072A8645C2E9893F78425225FE41482E (void);
+extern void FishingCountdown_OnApplicationFocus_mC7BD98A4A22F1833CB84A7B02F7836F90AE124C5 (void);
+extern void FishingCountdown_OnApplicationPause_mD8F8FB48A113DC9A2BC5808D7C8BD572E09BFDA1 (void);
+extern void FishingCountdown_ShowRestPanel_m893D89F4932D0C8F8B60DFB9E5647C35B2D39B9D (void);
+extern void FishingCountdown_OnClickContinue_m2DF597419A3C9F7EC5535C4FB243AF19065155D5 (void);
+extern void FishingCountdown_OnClickBackHome_m9BCA6CB9E40E4AEB774F8E79C1ED58D9815EA130 (void);
+extern void FishingCountdown__ctor_mBA99840B184F6CEE30114D2730D0E292A0315D0F (void);
+extern void SceneLoader_LoadScene_mFE87E2AA20B80CBECD7C02C3A6EF68661736A3F1 (void);
+extern void SceneLoader_QuitApp_m4AF27DBC6668B4B6BFA560171ACAA6C629B8EC16 (void);
+extern void SceneLoader__ctor_m2248766DF38AF07562AD31501C7275B8DF1B7D29 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[16] = 
+{
+	FishingCountdown_OnEnable_m658B5BC23DC264F2A5A7050B7DE9DE2FAB4A13D7,
+	FishingCountdown_StartCountdown_m911571D980BDDE8FD87EA7E04436AC4161C248B5,
+	FishingCountdown_Update_mFB97934873CFB00C4DBCCB4610CC39333C45CE39,
+	FishingCountdown_UpdateCountdownLabel_mB924CFFAE403D8F4BCEF547D9BFD72B47DA9A6F6,
+	FishingCountdown_OnCountdownSuccess_mA3D65087072A8645C2E9893F78425225FE41482E,
+	FishingCountdown_OnApplicationFocus_mC7BD98A4A22F1833CB84A7B02F7836F90AE124C5,
+	FishingCountdown_OnApplicationPause_mD8F8FB48A113DC9A2BC5808D7C8BD572E09BFDA1,
+	FishingCountdown_ShowRestPanel_m893D89F4932D0C8F8B60DFB9E5647C35B2D39B9D,
+	FishingCountdown_OnClickContinue_m2DF597419A3C9F7EC5535C4FB243AF19065155D5,
+	FishingCountdown_OnClickBackHome_m9BCA6CB9E40E4AEB774F8E79C1ED58D9815EA130,
+	FishingCountdown__ctor_mBA99840B184F6CEE30114D2730D0E292A0315D0F,
+	SceneLoader_LoadScene_mFE87E2AA20B80CBECD7C02C3A6EF68661736A3F1,
+	SceneLoader_QuitApp_m4AF27DBC6668B4B6BFA560171ACAA6C629B8EC16,
+	SceneLoader__ctor_m2248766DF38AF07562AD31501C7275B8DF1B7D29,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[16] = 
+{
+	14377,
+	14377,
+	14377,
+	14377,
+	14377,
+	10646,
+	10646,
+	14377,
+	14377,
+	14377,
+	14377,
+	10835,
+	14377,
+	14377,
+	25016,
+	14377,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	16,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};

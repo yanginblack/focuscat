@@ -1,0 +1,37 @@
+# Unity build folders
+Builds/
+Build/
+Builds/iOSProject/
+
+
+# Unity temporary folders
+Temp/
+Obj/
+
+# Unity package cache
+Packages/PackageCache/
+
+# Unity generated files
+Library/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
