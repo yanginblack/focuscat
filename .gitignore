@@ -12,7 +12,7 @@ Obj/
 Packages/PackageCache/
 
 # Unity generated files
-Library/
+Library/*
 Logs/
 UserSettings/
 MemoryCaptures/
