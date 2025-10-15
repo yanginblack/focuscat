@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638954152130000000
+      ticks: 638955624470000000
     m_Hash: 120873945
   m_LockFileStatus:
     m_FilePath: /Users/yang/Work/FocusCat/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638954152190000000
+      ticks: 638955624470000000
     m_Hash: 39805408
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -182,6 +182,7 @@ m_ResolvedPackages:
     - 12.0.1
     - 12.0.2
     - 13.0.0
+    - 13.0.1
     compatible:
     - 12.0.2
     recommended: 12.0.2
@@ -331,6 +332,7 @@ m_ResolvedPackages:
     - 2.0.1
     - 2.0.2
     - 3.0.0
+    - 3.0.1
     compatible:
     - 2.0.1
     - 2.0.2
@@ -1106,6 +1108,7 @@ m_ResolvedPackages:
     - 5.0.0
     - 5.0.1
     - 6.0.0
+    - 6.0.1
     compatible:
     - 5.0.1
     recommended: 5.0.1
@@ -1291,8 +1294,10 @@ m_ResolvedPackages:
     - 2.9.1
     - 2.9.2
     - 2.9.3
+    - 2.10.0
     compatible:
     - 2.9.3
+    - 2.10.0
     recommended: 2.9.3
     deprecated: []
   dependencies: []
@@ -1544,9 +1549,11 @@ m_ResolvedPackages:
     - 2.0.21
     - 2.0.22
     - 2.0.23
+    - 2.0.25
     compatible:
     - 2.0.23
-    recommended: 2.0.23
+    - 2.0.25
+    recommended: 2.0.25
     deprecated: []
   dependencies:
   - name: com.unity.test-framework
@@ -5798,6 +5805,7 @@ m_ResolvedPackages:
     - 11.0.0
     - 11.0.1
     - 12.0.0
+    - 12.0.1
     compatible:
     - 11.0.1
     recommended: 11.0.1

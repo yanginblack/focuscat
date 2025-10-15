@@ -458,7 +458,9 @@
 -analyzer:"/Applications/Unity/Hub/Editor/6000.2.6f2/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.2.6f2/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Scripts/FishingCountdown.cs"
+"Assets/Scripts/HomeSwiper.cs"
 "Assets/Scripts/SceneLoader.cs"
+"Assets/Scripts/ScreenFader.cs"
 -langversion:9.0
 /deterministic
 /optimize+

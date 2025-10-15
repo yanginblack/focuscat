@@ -16,6 +16,7 @@ Library/
 Logs/
 UserSettings/
 MemoryCaptures/
+local_assets/
 
 # Visual Studio / Rider
 .vs/
