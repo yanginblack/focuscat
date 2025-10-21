@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "id": 1, "name": "Starter fishing pod", "category": "rod", "price": 0, "rarity": 0, "iconPathSmall": "Assets/Images/fishing_rods_yellow.png[fishing_rods_yellow_0]"},
+    { "id": 2, "name": "Elite fishing pod", "category": "rod", "price": 150, "rarity": 1, "iconPathSmall": "Assets/Images/fishing_rods_red.png[fishing_rods_red_0]"},
+    { "id": 3, "name": "Pro fishing pod", "category": "rod", "price": 500, "rarity": 2, "iconPathSmall": "Assets/Images/fishing_rods_purple.png[fishing_rods_purple_0]"},
+    { "id": 4, "name": "Master fishing pod", "category": "rod", "price": 1200, "rarity": 3, "iconPathSmall": "Assets/Images/fishing_rods_black.png[fishing_rods_black_0]"},
+    { "id": 101, "name": "Fish for test", "category": "fish", "price": 5, "rarity": 4, "iconPathSmall": "Assets/Images/fish_sample.png[fish_sample_0]"}
+  ]
+}

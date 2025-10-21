@@ -15,5 +15,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Fishing.unity
     guid: c493e9f4a4c304da19f3f8f9cfd2613b
   m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 17fc4241e523d41769cfd921c0effd0b, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
