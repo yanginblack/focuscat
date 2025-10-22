@@ -15,6 +15,11 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_GUID: 82a50544f6e2441269a087cb9c48311e
   m_SerializeEntries:
+  - m_GUID: 561c1dcfb3cc4418ebe0637576ab2c88
+    m_Address: Assets/Images/fish_sample.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 57775696618254e4f8ea9b771504c1ea
     m_Address: Assets/Images/fishing_rods_purple.png
     m_ReadOnly: 0
