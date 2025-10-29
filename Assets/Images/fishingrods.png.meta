@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 18d8497aafc1c4c709e5b8e36e8db42a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4891948891128166442
+    second: fishingrods_0
+  - first:
+      213: 4528058215968913290
+    second: fishingrods_1
+  - first:
+      213: 1051081083859757747
+    second: fishingrods_2
+  - first:
+      213: 3056128882016539592
+    second: fishingrods_3
+  - first:
+      213: -6249270823597932924
+    second: fishingrods_4
+  - first:
+      213: 2258777986738106658
+    second: fishingrods_5
+  - first:
+      213: 5870375886685511621
+    second: fishingrods_6
+  - first:
+      213: 9044521597540100876
+    second: fishingrods_7
+  - first:
+      213: 6533492147449364041
+    second: fishingrods_8
+  - first:
+      213: -6931761587848823729
+    second: fishingrods_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fishingrods_001
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 285
+        width: 102
+        height: 217
+      alignment: 9
+      pivot: {x: 0.48326492, y: 0.13028727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d780f4f66e4c1cb0800000000000000
+      internalID: -4891948891128166442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrods_002
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 290
+        width: 146
+        height: 224
+      alignment: 9
+      pivot: {x: 0.12586954, y: 0.10754899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87bd1de4f4e6de30800000000000000
+      internalID: 4528058215968913290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrods_003
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 284
+        width: 56
+        height: 237
+      alignment: 9
+      pivot: {x: 0.24090631, y: 0.12547477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bae7994da0369e00800000000000000
+      internalID: 1051081083859757747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrods_004
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 288
+        width: 153
+        height: 201
+      alignment: 9
+      pivot: {x: 0.09835995, y: 0.1433195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c35860b60d896a20800000000000000
+      internalID: 3056128882016539592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrods_005
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 285
+        width: 98
+        height: 212
+      alignment: 9
+      pivot: {x: 0.1516381, y: 0.12559351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e7b36cb412649a0800000000000000
+      internalID: -6249270823597932924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrods_006
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 21
+        width: 186
+        height: 237
+      alignment: 9
+      pivot: {x: 0.04572569, y: 0.15428443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2213ff58c9ac85f10800000000000000
+      internalID: 2258777986738106658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrods_007
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 21
+        width: 136
+        height: 240
+      alignment: 9
+      pivot: {x: 0.11718672, y: 0.11593143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf98ef24c3c77150800000000000000
+      internalID: 5870375886685511621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrods_008
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 21
+        width: 139
+        height: 211
+      alignment: 9
+      pivot: {x: 0.10702822, y: 0.107639365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0be9b81978948d70800000000000000
+      internalID: 9044521597540100876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrods_009
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 21
+        width: 164
+        height: 233
+      alignment: 9
+      pivot: {x: 0.09407416, y: 0.093404055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ef58ffd70abaa50800000000000000
+      internalID: 6533492147449364041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrods_010
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 21
+        width: 111
+        height: 193
+      alignment: 9
+      pivot: {x: 0.12323603, y: 0.119690455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cb298df8f6dcf90800000000000000
+      internalID: -6931761587848823729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c42de51e32da24a489147746d938dda6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fishingrods_001: -4891948891128166442
+      fishingrods_002: 4528058215968913290
+      fishingrods_003: 1051081083859757747
+      fishingrods_004: 3056128882016539592
+      fishingrods_005: -6249270823597932924
+      fishingrods_006: 2258777986738106658
+      fishingrods_007: 5870375886685511621
+      fishingrods_008: 9044521597540100876
+      fishingrods_009: 6533492147449364041
+      fishingrods_010: -6931761587848823729
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
